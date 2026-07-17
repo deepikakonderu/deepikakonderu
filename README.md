@@ -9,7 +9,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=780&lines=Hi+👋,+I'm+Konderu+Deepika;Full-Stack+Developer;AI+%26+ML+Student;Java+%7C+React+%7C+Node.js+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Scalable+Web+Applications;Learning+Something+New+Every+Day+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Konderu+Deepika;Full-Stack+Developer;AI+%26+ML+Student;Java+%7C+React+%7C+Node.js+Developer;DSA+Enthusiast+%7C+Problem+Solver;Building+Scalable+Web+Applications;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <br/>
 
 </div>
