@@ -1,15 +1,11 @@
+# 👋 Hi, I'm Konderu Deepika
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00B4DB,50:0083B0,100:24243E&text=Konderu%20Deepika&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20%26%20ML%20Student&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:2563EB,100:06B6D4&text=Konderu%20Deepika&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20%26%20ML%20Student"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Konderu Deepika</h1>
-
-<h3 align="center">
-Full-Stack Developer • AI & ML Student • DSA Enthusiast
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00E7FF&center=true&width=700&lines=Building+Modern+Web+Applications;Learning+AI+%26+Machine+Learning;Solving+DSA+Problems;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Student;React+Learner;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
@@ -19,130 +15,74 @@ Full-Stack Developer • AI & ML Student • DSA Enthusiast
 
 ---
 
-# 🌸 About Me
+## 🌸 About Me
 
-```ts
-const Deepika = {
-  role: "Full-Stack Developer & AI/ML Student",
+- 🎓 B.Tech CSE (AI & ML), CMR College of Engineering & Technology
+- 📍 Hyderabad, India
+- 💻 Full-Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🧠 DSA Learner
+- 🌱 Currently learning React, Node.js, PostgreSQL & System Design
 
-  college: "CMR College of Engineering & Technology",
-
-  location: "Hyderabad, India 🇮🇳",
-
-  learning: [
-    "React",
-    "Node.js",
-    "PostgreSQL",
-    "System Design",
-    "Artificial Intelligence"
-  ],
-
-  interests: [
-    "Full-Stack Development",
-    "AI Applications",
-    "Problem Solving",
-    "Open Source"
-  ],
-
-  motto: "Keep Learning • Keep Building • Keep Growing 🚀"
-}
-```
-
----
-
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,ts,react,nodejs,express,postgres,mysql,git,github,vscode,tailwind&perline=8"/>
-
 </p>
 
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepikakonderu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikakonderu&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepikakonderu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikakonderu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 Contribution Streak
+## 🔥 Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=deepikakonderu&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=deepikakonderu&theme=algolia&no-frame=true"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikakonderu&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| frontend-project | Amazon homepage clone using HTML & CSS |
+| Chronic-diseases-Prediction-Using-Machine-Learning | ML-based disease prediction |
+| slay-fit-fashion | Fashion website |
+| CodeAlpha_Portfolio | Portfolio website |
+| CodeAlpha_MusicPlayer | Music player |
+| CodeAlpha_ImageGallery | Image gallery |
 
-| Project | Tech |
-|---------|------|
-| 🛍️ TechVerse Store | React • TypeScript • Supabase |
-| 🌦 Weather Dashboard | JavaScript • API |
-| 🤖 AI Study Planner | AI • React |
-| 💼 SalesForge CRM | Node.js • PostgreSQL |
+## 🎯 Goals
 
----
+- Become a Full-Stack AI Developer
+- Master System Design
+- Solve 500+ DSA Problems
+- Contribute to Open Source
+- Secure a Software Internship
 
-# 🎯 Current Goals
-
-- 🚀 Become a Full-Stack AI Developer
-- 📚 Master System Design
-- 💻 Solve 500+ DSA Problems
-- 🌍 Contribute to Open Source
-- 🏆 Crack Top Product-Based Companies
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/deepika-konderu-b5945637a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/deepikakonderu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<a href="https://github.com/deepikakonderu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/deepika-konderu-b5945637a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
----
+> **Dream big. Build consistently. Never stop learning.**
 
-<div align="center">
-
-## ✨ *"Every line of code is one step closer to the future."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:24243E,50:0083B0,100:00B4DB"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:2563EB,100:06B6D4"/>
+</p>
