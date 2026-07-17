@@ -5,13 +5,11 @@
 
 <div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&height=70&lines=Hi+👋+I'm+Konderu+Deepika;Full-Stack+Developer+💻;AI+%26+Machine+Learning+Student+🤖;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Passionate+DSA+Problem+Solver;Open+Source+Contributor+🌍;Always+Building.+Always+Growing.+🚀" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=Deepika&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Learn.%20Build.%20Grow.&descSize=18&descAlignY=60&descColor=CBD5E1&animation=fadeIn" width="100%"/>
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+💻;AI+%26+ML+Student+🤖;React+Developer+⚛️;DSA+Enthusiast+⚔️;Always+Learning+🚀" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Konderu+Deepika;Full-Stack+Developer;AI+%26+ML+Student;React+%7C+Node.js+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Real-World+Projects;Always+Learning+🚀" alt="Typing SVG" />
 <br/><br/>
 
 </div>
