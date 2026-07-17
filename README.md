@@ -9,8 +9,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Konderu+Deepika;Full-Stack+Developer;AI+%26+ML+Student;React+%7C+Node.js+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Real-World+Projects;Always+Learning+🚀" alt="Typing SVG" />
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FFC8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%8F%97%EF%B8%8F;AI+%2B+ML+Explorer+%F0%9F%A4%96;DSA+Warrior+%E2%9A%94%EF%B8%8F;Real-Time+Systems+Alchemist+%E2%9A%A1;Network+Whisperer+%F0%9F%8C%90" alt="Typing SVG" />
+<br/>
 
 </div>
 
