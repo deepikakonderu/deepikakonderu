@@ -1,10 +1,10 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&text=Konderu%20Deepika&animation=twinkling&fontColor=00f2fe&fontAlign=50&fontAlignY=40&fontSize=60&height=220" alt="Capsule Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:2563EB,100:06B6D4&text=Konderu%20Deepika&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Student" alt="Capsule Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+ML+Student;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Student;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Effect"/>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ I am a passionate Full-Stack Developer and AI/ML student who enjoys building sca
       <img src="https://github-readme-stats.vercel.app/api?username=deepikakonderu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikakonderu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="200" />
+      <img src="https://streak-stats.demolab.com?user=deepikakonderu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="200" />
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ I am a passionate Full-Stack Developer and AI/ML student who enjoys building sca
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikakonderu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikakonderu&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Activity Graph" height="200" width="400" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikakonderu&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" height="200" width="400" />
     </td>
   </tr>
 </table>
@@ -79,12 +79,12 @@ I am a passionate Full-Stack Developer and AI/ML student who enjoys building sca
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **SalesForge CRM** | A premium Customer Relationship Management platform built to optimize sales pipelines, manage leads, and analyze corporate performance data. | React, Node.js, PostgreSQL, Tailwind CSS | [View Repository](https://github.com/deepikakonderu) |
-| **TechVerse Store** | A modern E-commerce storefront featuring lightning-fast product search, user authentication, and secure checkout architecture. | React, Express.js, MongoDB, Node.js | [View Repository](https://github.com/deepikakonderu) |
-| **Weather Dashboard** | A highly responsive weather tracking application displaying real-time atmospheric metrics and multi-day predictive forecasting. | JavaScript, REST APIs, Bootstrap, HTML/CSS | [View Repository](https://github.com/deepikakonderu) |
-| **AI Study Planner** | An intelligent academic assistant designed to curate personalized study roadmaps and track dynamic progression metrics. | Python, AI/ML Libraries, React | [View Repository](https://github.com/deepikakonderu) |
-| **Ahaar Connect** | A zero-waste, food rescue logistics platform connecting surplus food suppliers seamlessly to regional shelter networks. | Node.js, Express.js, Prisma, MySQL | [View Repository](https://github.com/deepikakonderu) |
-| **Personal Portfolio** | A refined digital showcase highlighting core software engineer credentials, interactive case studies, and responsive design layouts. | React, Tailwind CSS, Vercel | [View Repository](https://github.com/deepikakonderu) |
+| **Chronic Diseases Prediction** | A machine learning project designed to analyze health metrics and predict chronic diseases with high precision. | Python, Machine Learning, Scikit-Learn | [View Repository](https://github.com/deepikakonderu/Chronic-diseases-Prediction-Using-Machine-Learning) |
+| **Slay Fit Fashion** | A stylish and highly responsive frontend e-commerce web platform optimized for fashion retail storefronts. | HTML, CSS, JavaScript, Responsive Design | [View Repository](https://github.com/deepikakonderu/slay-fit-fashion) |
+| **CodeAlpha Portfolio** | An interactive personal portfolio built to showcase engineering skills, technical credentials, and active deployments. | HTML, CSS, JavaScript | [View Repository](https://github.com/deepikakonderu/CodeAlpha_Portfolio) |
+| **CodeAlpha Music Player** | A clean, feature-rich web music application supporting intuitive audio playback controls and dynamic UI updates. | JavaScript, HTML, CSS | [View Repository](https://github.com/deepikakonderu/CodeAlpha_MusicPlayer) |
+| **CodeAlpha Image Gallery** | A polished and fully responsive image presentation interface with modal interactions and grid layouts. | HTML, CSS, JavaScript | [View Repository](https://github.com/deepikakonderu/CodeAlpha_ImageGallery) |
+| **Frontend Project** | A specialized workspace focused on mastering core interface standards and layout design methodologies. | HTML, CSS, Web Layouts | [View Repository](https://github.com/deepikakonderu/frontend-project) |
 
 ---
 
