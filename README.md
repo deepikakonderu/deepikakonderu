@@ -1,101 +1,138 @@
-<!-- HEADER START -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:2563EB,100:06B6D4&text=Konderu%20Deepika&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Student" alt="Capsule Header"/>
-</p>
+<!-- ============================================================
+     DEEPIKA — GITHUB PROFILE README
+     GitHub: https://github.com/deepikakonderu
+     ============================================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&width=700&lines=Full-Stack+Developer;AI+%26+ML+Student;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Effect"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/deepika-konderu-b5945637a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Deepika_Konderu/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=200&section=header&text=Deepika&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Learn.%20Build.%20Grow.&descSize=18&descAlignY=60&descColor=CBD5E1&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  📍 Hyderabad, Telangana, India
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+💻;AI+%26+ML+Student+🤖;React+Developer+⚛️;DSA+Enthusiast+⚔️;Always+Learning+🚀" alt="Typing SVG" />
+
+<br/><br/>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🧙 About Me
 
-I am a passionate Full-Stack Developer and AI/ML student who enjoys building scalable web applications, solving complex Data Structures & Algorithms problems, and exploring Artificial Intelligence. I thrive on translating complex problems into elegant, efficient, and robust code.
+```ts
+const Deepika = {
+  role: "Full-Stack Developer & AI/ML Student",
+  college: "CMR College of Engineering & Technology",
+  location: "Hyderabad, Telangana, India 🇮🇳",
 
-* 🎓 **Education:** B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning) at **CMR College of Engineering & Technology**
-* 💡 **Interests:** System Design, Open Source Contribution, and Predictive Modeling
-* 🌱 **Philosophy:** Continuous learning and building impactful tech solutions for real-world challenges
+  currentFocus: [
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Data Structures & Algorithms"
+  ],
 
----
+  learning: [
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "System Design"
+  ],
 
-### 🛠️ Tech Stack
+  superpower: "Turning ideas into real-world applications 💙",
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,c,react,tailwind,bootstrap,nodejs,express,postgres,mysql,mongodb,prisma,git,github,vscode,postman,vercel" alt="My Skills" />
-  </a>
-</p>
+  philosophy: "Keep learning. Keep building. Keep growing.",
 
----
+  openTo: [
+    "Internships",
+    "Hackathons",
+    "Open Source",
+    "Collaborations"
+  ],
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepikakonderu&theme=dracula&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 Performance & Analytics
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=deepikakonderu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="200" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=deepikakonderu&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikakonderu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikakonderu&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" height="200" width="400" />
-    </td>
-  </tr>
-</table>
+  funFact: "Every project teaches me something new 🚀"
+};
+```
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Tech Stack
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Chronic Diseases Prediction** | A machine learning project designed to analyze health metrics and predict chronic diseases with high precision. | Python, Machine Learning, Scikit-Learn | [View Repository](https://github.com/deepikakonderu/Chronic-diseases-Prediction-Using-Machine-Learning) |
-| **Slay Fit Fashion** | A stylish and highly responsive frontend e-commerce web platform optimized for fashion retail storefronts. | HTML, CSS, JavaScript, Responsive Design | [View Repository](https://github.com/deepikakonderu/slay-fit-fashion) |
-| **CodeAlpha Portfolio** | An interactive personal portfolio built to showcase engineering skills, technical credentials, and active deployments. | HTML, CSS, JavaScript | [View Repository](https://github.com/deepikakonderu/CodeAlpha_Portfolio) |
-| **CodeAlpha Music Player** | A clean, feature-rich web music application supporting intuitive audio playback controls and dynamic UI updates. | JavaScript, HTML, CSS | [View Repository](https://github.com/deepikakonderu/CodeAlpha_MusicPlayer) |
-| **CodeAlpha Image Gallery** | A polished and fully responsive image presentation interface with modal interactions and grid layouts. | HTML, CSS, JavaScript | [View Repository](https://github.com/deepikakonderu/CodeAlpha_ImageGallery) |
-| **Frontend Project** | A specialized workspace focused on mastering core interface standards and layout design methodologies. | HTML, CSS, Web Layouts | [View Repository](https://github.com/deepikakonderu/frontend-project) |
+<div align="center">
+
+### 💬 Languages
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://python.org)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### 🌐 Frontend
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
+### ⚙️ Backend
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+### 🗄️ Databases
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+
+### 🤖 AI & ML
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+
+### 🧠 Core Skills
+
+[![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deepika_Konderu/)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+
+</div>
 
 ---
 
-### 🎯 Strategic Trajectory
+## 🔥 What Drives Me
 
-```txt
-┌──────────────────────────────────────┐
-│  Current Focus                       │
-├──────────────────────────────────────┤
-│  🚀 Full Stack Development Mastery   │
-│  🧠 Deep Learning & AI Architectures │
-│  📐 Advanced Data Structures & Algo  │
-│  🏗️ Scalable System Design          │
-└──────────────────────────────────────┘
+| 🚀 Passion | 💡 Why It Matters |
+|:---|:---|
+| 💻 Full-Stack Development | Building complete web applications from frontend to backend |
+| 🧠 DSA & Problem Solving | Writing optimized and efficient solutions |
+| 🤖 Artificial Intelligence | Building intelligent applications |
+| 🌍 Open Source | Learning through collaboration |
+| 🎯 Clean Code | Creating maintainable and scalable software |
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=120&section=footer" width="100%"/>
+
+```text
+✦ Learn. Build. Grow. ✦
+      — Konderu Deepika
+```
+
+</div>
+
+<!-- ============================================================
+GitHub Username : deepikakonderu
+LinkedIn : https://www.linkedin.com/in/deepika-konderu-b5945637a
+LeetCode : https://leetcode.com/u/Deepika_Konderu/
+============================================================ -->
